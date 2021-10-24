@@ -3,8 +3,8 @@
 
 I'm Abiodun. A Frontend Engineer with focus on building scalable and responsive application, based in Lagos Nigeria. I create sleek user interface with a wow-effect🔥✈️. I am looking to collaborate on MERN stack project.
 
-- 😄 Pronouns: He/Him.
 <!-- - ⚡ Exploring Docker and Kubernetes. -->
+- 😄 Pronouns: He/Him.
 - ⚡ Exploring NodeJS, ExpressJS and MongoDB.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiodun-awoyemi-1ab8b3165/)](https://www.linkedin.com/in/abiodun-awoyemi-1ab8b3165/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aabiodunawoyemi@gmail.com)](mailto:aabiodunawoyemi@gmail.com)
